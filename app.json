@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "Peterinary",
+    "slug": "peterinary",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.peterinary.app",
+      "buildNumber": "1",
+      "scheme": "App"
+    },
+    "android": {
+      "package": "com.peterinary.app",
+      "versionCode": 1,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "36051e7a-c1ae-4aec-97c2-601c2f8afbf4"
+      }
+    }
+  }
+}
